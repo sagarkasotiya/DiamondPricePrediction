@@ -1,7 +1,7 @@
 import os
 import sys
 import pandas as pd
-sys.path.insert(0, 'D:\DiamondPricePrediction\src')
+sys.path.insert(0, 'src')
 from src.logger import *
 from src.exception import *
 #from logger import logging

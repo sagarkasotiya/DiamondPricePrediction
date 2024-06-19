@@ -3,7 +3,7 @@ import os
 import sys
 import pandas as pd
 from pathlib import Path 
-sys.path.insert(0, 'D:\MY_PROJECT_WORK\src')
+sys.path.insert(0, 'src')
 from src.logger import *
 from src.exception import *
 from src.utils import *

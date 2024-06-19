@@ -2,7 +2,7 @@ from flask import Flask, request, render_template, jsonify
 import os
 import sys
 from pathlib import Path
-sys.path.insert(0, 'D:\\MY_PROJECT_WORK\\src\\pipelines')
+sys.path.insert(0, 'src\pipelines')
 from src.pipelines.prediction_pipeline import CustomData, PredictPipeline
 
 application = Flask(__name__)

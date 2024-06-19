@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 import numpy as np 
 from sklearn.metrics import r2_score,mean_absolute_error,mean_squared_error
-sys.path.insert(0, 'D:\DiamondPricePrediction\src')
+sys.path.insert(0, 'src')
 from src.logger import *
 from src.exception import *
 def save_objects(file_path,obj):

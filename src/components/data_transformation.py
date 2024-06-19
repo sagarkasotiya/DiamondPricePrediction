@@ -18,7 +18,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from dataclasses import dataclass
 from pathlib import Path 
-sys.path.insert(0, 'D:\DiamondPricePrediction\src')
+sys.path.insert(0, 'src')
 from src.logger import *
 from src.exception import *
 from src.utils import *
