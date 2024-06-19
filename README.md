@@ -1,1 +1,1 @@
-## machine learning projects
+## machine learning project(Diamond Price Prediction)
